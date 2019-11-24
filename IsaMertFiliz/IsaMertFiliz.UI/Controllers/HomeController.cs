@@ -20,7 +20,11 @@ namespace IsaMertFiliz.UI.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            IndexViewModel ındexView = new IndexViewModel
+            {
+                name= "İsa Mert Filiz"
+        };
+            return View(ındexView);
         }
 
         public IActionResult Privacy()

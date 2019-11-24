@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\IsaMertFiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj": {}
+    "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\isamertfiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj": {}
   },
   "projects": {
-    "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\IsaMertFiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj": {
+    "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\isamertfiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\IsaMertFiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj",
+        "projectUniqueName": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\isamertfiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj",
         "projectName": "IsaMertFiliz.UI",
-        "projectPath": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\IsaMertFiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj",
+        "projectPath": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\isamertfiliz\\IsaMertFiliz.UI\\IsaMertFiliz.UI.csproj",
         "packagesPath": "C:\\Users\\isame\\.nuget\\packages\\",
-        "outputPath": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\IsaMertFiliz\\IsaMertFiliz.UI\\obj\\",
+        "outputPath": "F:\\UDEMY ALIŞTIRMA\\PROJECTS\\isamertfiliz\\isamertfiliz\\IsaMertFiliz.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
